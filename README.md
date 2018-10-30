@@ -1,2 +1,2 @@
-# Tensor Jam: Shooting Hoops with Machine Learning
+# Tensor Jam with ML-Agents
 Coming soon!
