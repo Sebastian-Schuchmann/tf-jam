@@ -21,7 +21,7 @@ You can find those settings in the scene explorer under PlayerCollection/Player/
 ![Scene Hierachy](https://github.com/Sebastian-Schuchmann/tf-jam/blob/master/readmeAssets/Bildschirmfoto%202018-10-30%20um%2015.04.13.png?raw=true)
 
 ## Using the pretrained model
-I included a pretrained model in the Assets/ML-Model folder. I used my MacBook Pro to train this model for 7 hours and it pretty much hits the court everytime. To try it out, just drag the "editor_Academy_tfhoop-execute4-0" file to the "Graph Model" parameter in the brain.
+I included a pretrained model in the Assets/ML-Model folder. I used my MacBook Pro to train this model for 7 hours and it pretty https://github.com/Sebastian-Schuchmann/tf-jam/blob/master/readmeAssets/Bildschirmfoto%202018-10-30%20um%2016.19.30.png?raw=truemuch hits the court everytime. To try it out, just drag the "editor_Academy_tfhoop-execute4-0" file to the "Graph Model" parameter in the brain.
 
 ![Importing model to the brain](https://github.com/Sebastian-Schuchmann/tf-jam/blob/master/readmeAssets/Bildschirmfoto%202018-10-30%20um%2015.05.40.png?raw=false)
 
@@ -34,7 +34,7 @@ I included a pretrained model in the Assets/ML-Model folder. I used my MacBook P
 
 2. Set the Brain Type to External
 
-![](https://github.com/Sebastian-Schuchmann/tf-jam/blob/master/readmeAssets/Bildschirmfoto%202018-10-30%20um%2016.19.30.png?raw=true)
+![](https://github.com/Sebastian-Schuchmann/tf-jam/blob/master/readmeAssets/brainparameter.png?raw=true)
 
 
 
