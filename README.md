@@ -18,10 +18,19 @@ After importing the packages we have to make sure everything is setup correctly.
 
 You can find those settings in the scene explorer under PlayerCollection/Player/BallSpawner(Agent).
 
+![Scene Hierachy](https://github.com/Sebastian-Schuchmann/tf-jam/blob/master/readmeAssets/Bildschirmfoto%202018-10-30%20um%2015.04.13.png?raw=true)
+
 ## Using the pretrained model
 I included a pretrained model in the Assets/ML-Model folder. I used my MacBook Pro to train this model for 7 hours and it pretty much hits the court everytime. To try it out, just drag the "editor_Academy_tfhoop-execute4-0" file to the "Graph Model" parameter in the brain.
 
 ![Importing model to the brain](https://github.com/Sebastian-Schuchmann/tf-jam/blob/master/readmeAssets/Bildschirmfoto%202018-10-30%20um%2015.05.40.png?raw=false)
+
+## Train your own model
+### Setting up the scene
+
+1. Enable every "Player" gameobject and add it to "PlayerCollection". This way we can have multiple agents training at once. They are all connected to the same brain, so we can speed up the training process. Depending on your computer you can handle more or less agents at once. Just play around. 
+
+![Tutorial to enable every Player](https://media.giphy.com/media/455paP4M6hUWsamG8Q/giphy.gif)
 
 
 
