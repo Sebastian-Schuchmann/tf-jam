@@ -32,6 +32,10 @@ I included a pretrained model in the Assets/ML-Model folder. I used my MacBook P
 
 ![Tutorial to enable every Player](https://media.giphy.com/media/455paP4M6hUWsamG8Q/giphy.gif)
 
+2. Set the Brain Type to External
+
+![](https://github.com/Sebastian-Schuchmann/tf-jam/blob/master/readmeAssets/Bildschirmfoto%202018-10-30%20um%2016.19.30.png?raw=true)
+
 
 
 
