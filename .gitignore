@@ -109,3 +109,9 @@ typings/
 
 # Serverless directories
 .serverless
+
+Assets/ML-Agents/
+
+Assets/\.DS_Store
+
+Assets/ML-Agents\.meta
