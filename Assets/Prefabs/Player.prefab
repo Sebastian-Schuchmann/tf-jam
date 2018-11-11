@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33475527622474658}
   - component: {fileID: 23391635875675916}
   - component: {fileID: 65214056846538486}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Positioned
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40,9 +40,9 @@ GameObject:
   - component: {fileID: 114594714805854820}
   - component: {fileID: 54926387227198410}
   - component: {fileID: 65219351502602128}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55,7 +55,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4679650783734978}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Aim
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73,9 +73,9 @@ GameObject:
   - component: {fileID: 33495162227298306}
   - component: {fileID: 23044883715602028}
   - component: {fileID: 65944016400043838}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Body
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -90,7 +90,7 @@ GameObject:
   - component: {fileID: 4326212749916704}
   - component: {fileID: 33562700594967114}
   - component: {fileID: 23375034619852524}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Indicator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4557201246781000}
   - component: {fileID: 114401547528750426}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: BallSpawner (Agent)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -394,7 +394,7 @@ MonoBehaviour:
   TransformGoal: {fileID: 0}
   TransformAim: {fileID: 4679650783734978}
   PrefabBall: {fileID: 1170952483474920, guid: bb8818788338841d68c398bc128b663e, type: 2}
-  maxVariance: 1
+  Hoop: {fileID: 0}
 --- !u!114 &114594714805854820
 MonoBehaviour:
   m_ObjectHideFlags: 1

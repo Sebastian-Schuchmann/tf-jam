@@ -54,10 +54,11 @@ public class BallController : MonoBehaviour
                 ballSpawnerController.AddReward(1.0f);
                 ballSpawnerController.AgentReset();
 
-                ballSpawnerController.RequestDecision();
+               // ballSpawnerController.RequestDecision();
 
                 //For performance reasons we destroy the Ball
-                Destroy(gameObject);
+                StartCoroutine(DoDespawn(.8f));
+                //Destroy(gameObject);
             }
             hasBeenScored = true;
         }
@@ -67,7 +68,7 @@ public class BallController : MonoBehaviour
     private void OnDestroy()
     {
         //ballSpawnerController.AddReward(-0.1f);
-        ballSpawnerController.RequestDecision();
+       // ballSpawnerController.RequestDecision();
     }
 
     IEnumerator DoDespawn(float delay)
@@ -80,7 +81,7 @@ public class BallController : MonoBehaviour
     {
         if (other.gameObject.name == "Court")
         {
-            StartCoroutine(DoDespawn(.5f));
+            //StartCoroutine(DoDespawn(.5f));
         }
     }
 }
