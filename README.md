@@ -1,5 +1,5 @@
 # Tensor Jam with ML-Agents 🤖
-![](https://media.giphy.com/media/9A6JRi5hUDtjogBcSA/giphy.gif)
+![](https://media.giphy.com/media/1aiZzRyl6HuhorZaIK/giphy.gif)
 
 Made with Unity 2018.2.3f1 and [ML-Agents Beta 0.5.0a](https://github.com/Unity-Technologies/ml-agents/releases/tag/0.5.0a). Check out the original [Medium post](https://medium.com/tensorflow/tf-jam-shooting-hoops-with-machine-learning-7a96e1236c32) by Abe Haskins that inspired this.
 
@@ -11,7 +11,7 @@ I wanted to modify the original tf-jam project for use with ML-Agents. Now you c
 ## Getting started
 ### Installing ML Agents and Tensorflow
 1. First download [ML-Agents Beta 0.5.0a](https://github.com/Unity-Technologies/ml-agents/releases/tag/0.5.0a) and import the ML-Agents folder (.../ml-agents-0.5.0a/UnitySDK/Assets/) into the projects asset folder.
-2. Then install the [TFSharpPlugin unitypackage](https://s3.amazonaws.com/unity-ml-agents/0.5/TFSharpPlugin.unitypackage). 
+2. Then instalhttps://media.giphy.com/media/9A6JRi5hUDtjogBcSA/giphy.gifl the [TFSharpPlugin unitypackage](https://s3.amazonaws.com/unity-ml-agents/0.5/TFSharpPlugin.unitypackage). 
 3. Make sure you have all the necessary python dependencies installed. Find more information in the [installation docs](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md) of ML-Agents.
 
 If you need more guidance check out the [basic guide](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Basic-Guide.md).
