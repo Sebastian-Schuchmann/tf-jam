@@ -6,7 +6,7 @@ Made with Unity 2018.2.3f1 and [ML-Agents Beta 0.5.0a](https://github.com/Unity-
 If you like this repo make sure to follow me [@seppischuchmann](https://www.instagram.com/seppischuchmann/) 👋.
 
 ## Motivation
-I wanted to modify the original tf-jam project for use with ML-Agents. Now you can train everything by using the ML-Agents toolkit via reinforcement learning. This makes it really use the extend the scope of the agents capability.
+I wanted to modify the original tf-jam project for use with ML-Agents. Now you can train everything by using the ML-Agents toolkit via reinforcement learning. This makes it really easy to extend the scope of the agents capability.
 
 ## Getting started
 ### Installing ML Agents and Tensorflow
